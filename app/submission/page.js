@@ -114,14 +114,14 @@ function SubmissionPage() {
             of Technical Program Committee.
           </li>
           <li className={styles.SubmissionPage_notes}>
-            Plagiarism Check using Turnitin.
+            Plagiarism Check using EDAS.
           </li>
           <li className={styles.SubmissionPage_notes}>
-            All the paper submission will be done on EasyChair conference
+            All the paper submission will be done on EDAS conference
             management software.
           </li>
           <li className={styles.SubmissionPage_notes}>
-            Reviewer assignment will be made using EasyChair.
+            Reviewer assignment will be made using EDAS.
           <br></br></li>
         </ul>
       </div>
