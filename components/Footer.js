@@ -37,14 +37,16 @@ const Footer = () => {
                 </div>
             </footer>
             <div className={styles.CreatedBy}>
-                <p className={styles.CreatedBy_line}>Designed &amp; Developed by <a className={styles.CreatedBy_link}
-                                                                                    href="https://www.github.com/sxjal">Sajal</a>, <a
-                    className={styles.CreatedBy_link} href="#">Gaurish</a>,&nbsp;
-                    <a className={styles.CreatedBy_link} href="#">Anjita</a>, <a
-                        className={styles.CreatedBy_link} href="#">Rohit</a>, <a
-                        className={styles.CreatedBy_link} href="#">Rohit</a>, <a
-                        className={styles.CreatedBy_link} href="#">Rohit</a> <a
-                        className={styles.CreatedBy_link} href="#">Rohit</a></p>
+                <p className={styles.CreatedBy_line}>Designed &amp; Developed by
+                    CSE Department, NIT Delhi
+                    {/* <a className={styles.CreatedBy_link} href="https://www.github.com/sxjal">Sajal</a>, 
+                    <a className={styles.CreatedBy_link} href="#">Gaurish</a>,&nbsp;
+                    <a className={styles.CreatedBy_link} href="#">Anjita</a>, 
+                    <a className={styles.CreatedBy_link} href="#">Rohit</a>, 
+                    <a className={styles.CreatedBy_link} href="#">Rohit</a>, 
+                    <a className={styles.CreatedBy_link} href="#">Rohit</a> 
+                    <a className={styles.CreatedBy_link} href="#">Rohit</a> */}
+                </p>
             </div>
         </>
     )
