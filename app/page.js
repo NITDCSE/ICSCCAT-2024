@@ -433,7 +433,7 @@ const IndexPage = () => {
 
       <div className={styles.OrganisingCommittee}>
 
-        <h2 className={`h2 ${styles.OrganisingCommittee_heading}`}>
+        {/* <h2 className={`h2 ${styles.OrganisingCommittee_heading}`}>
           Chief Guest
         </h2>
         {chiefguest.map(function (keynote) {
@@ -443,7 +443,7 @@ const IndexPage = () => {
               members={keynote.members}
             />
           );
-        })}
+        })} */}
 
         <h2 className={`h2 ${styles.OrganisingCommittee_heading}`}>
           Keynote Speakers
