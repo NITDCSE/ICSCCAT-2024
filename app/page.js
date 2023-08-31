@@ -17,7 +17,7 @@ const IndexPage = () => {
   return (
     <>
       <div className={styles.section_hero}>
-        <Image src={IccssatLogo} alt="ICSCCAT" className={styles.Hero_logo} />
+        {/* <Image src={IccssatLogo} alt="ICSCCAT" className={styles.Hero_logo} /> */}
         <p className={styles.Hero_pretext}>
           I<sup>st</sup> International Conference on
         </p>
@@ -37,7 +37,8 @@ const IndexPage = () => {
       </div>
       <div className={styles.section_tracks}>
         <h1 className="h1 mb-sm">
-          WELCOME TO <span id="heading_span"> ICSCCAT 2024</span>
+          {/* WELCOME TO <span id="heading_span"> ICSCCAT 2024</span> */}
+          WELCOME TO ICSCCAT 2024
         </h1>
         <div className={styles.Intro}>
           <div className={styles.Intro_content}>
